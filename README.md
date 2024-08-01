@@ -1,5 +1,22 @@
 # CODTECH-Task2
 
+NAME: A NAVEEN KUMAR
+
+COMPANY: CodeTech IT Solutions
+
+ID: CT4WD5429
+
+DOMAIN: Web Development
+
+DURATION: 20th July to 20th Aug 2024
+
+MENTOR: Muzammil Ahmed
+
+PROJECT OVERVIEW:
+
+Crafting a user-friendly weather web app with CSS, HTML, and JavaScript!
+
+![image]()
 
 This is a weather app created by using HTML, CSS and VanillaJS. The app allows users to search for the current weather conditions and six-day forecast for any location.
 
