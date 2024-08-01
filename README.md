@@ -16,7 +16,7 @@ PROJECT OVERVIEW:
 
 Crafting a user-friendly weather web app with CSS, HTML, and JavaScript!
 
-![image]()
+![image](https://github.com/naveen23451/CODTECH-Task2/blob/414df7d2a94d952fc0afbffb82ee4917565abf7a/task2.png)
 
 This is a weather app created by using HTML, CSS and VanillaJS. The app allows users to search for the current weather conditions and six-day forecast for any location.
 
